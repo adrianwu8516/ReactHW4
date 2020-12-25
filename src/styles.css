@@ -1,0 +1,27 @@
+/* Only Shared CSS Here */
+
+body {
+  font-family: sans-serif;
+  background-color: #f3f3f3;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+}
+
+.normalPadding {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+.smallPadding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.absoluteCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
